@@ -1,6 +1,6 @@
 package coreJavaVariables;
 
-public class Runner {
+public class Assignment1 {
 
 	public static void main(String[] args) {
 		addIntegers();
